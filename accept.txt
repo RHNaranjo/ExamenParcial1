@@ -1,0 +1,65 @@
+a.out
+accept.txt
+output.txt
+texto_plano_threads.cpp
+   15  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   16  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   33  ls
+   58  ls
+   59  ls -la
+  201  ls dev/*usb*
+  202  ls /dev/*usb*
+  204  ls /dev/*usb*
+  258  ls
+  531  "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/DQLUrbanist/bin/python" "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/agente2/xlsx2json.py"
+  533  "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/DQLUrbanist/bin/python" "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/agente2/xlsx2json.py"
+  553  git config pull.rebase false
+  618  "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/DQLUrbanist/bin/python" "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/agente2/xlsx2json.py"
+  620  "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/DQLUrbanist/bin/python" "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/agente2/xlsx2json.py"
+ 1158  "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/DQLUrbanist/bin/python" "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/agente2/xlsx2json.py"
+ 1160  "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/DQLUrbanist/bin/python" "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/agente2/xlsx2json.py"
+ 1177  "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/DQLUrbanist/bin/python" "/Users/rodrigonaranjo/Desktop/RL Urbanism/DQL_URB_2_Agents/agente2/xlsx2json.py"
+ 1230  ls
+ 1235  ls
+ 1330  ls
+ 1336  ls
+ 1339  ls
+ 1343  ls
+ 1348  ls -la
+ 1349  which ls
+ 1350  which ls -G
+ 1354  which ls
+ 1358  cat ls
+ 1361  ls
+ 1366  ls
+ 1368  ls
+ 1371  ls
+ 1374  ls
+ 1387  ls
+ 1389  ls
+ 1390  ls philosophy_llm
+ 1394  ls
+ 1398  ls
+ 1401  ls
+ 1404  curl http://localhost:11434/api/generate -d '{\n  "model": "llama3.2",\n  "prompt": "One sentence about fictional philosophy.",\n  "stream": false\n}'
+ 1406  ls
+ 1411  ls
+ 1413  ls
+ 1423  ls
+ 1441  ls
+ 1470  ls -la /Library/LaunchDaemons/ | grep ChmodBPF\n
+ 1476  ls
+ 1482  ls
+ 1495  ls
+ 1504  ls
+ 1507  ls
+ 1517  ls
+ 1519  ls
+ 1522  ls
+ 1539  ls -r
+ 1540  ls r
+ 1541  man ls
+ 1542  ls -R
+ 1588  ls
+ 1590  ls
+ 1592  ls
