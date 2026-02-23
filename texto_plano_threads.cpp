@@ -47,4 +47,6 @@ int main(){
         thread.join();
     
     std::cout << "Se terminó la escritua en " << archivoSalida << std::endl;
+    
+    return 0;
 }
